@@ -8,3 +8,4 @@ Unreal Engine Cinematics course on Udemy (GameDev.tv) - part 2: Sequencer and ca
 * v10 - Setting our scene (installing Infinity Blade Ice Lands scene & Paragon Phase character)
 * v11 - Sequencer introduction - adding cameras and shots
 * v12 - Animating Cameras - 2 animated shots + different character
+* v13 - Auto-keying Animations - adding a 3rd shot and autokeying
