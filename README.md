@@ -10,4 +10,4 @@ Unreal Engine Cinematics course on Udemy (GameDev.tv) - part 2: Sequencer and ca
 * v12 - Animating Cameras - 2 animated shots + different character
 * v13 - Auto-keying Animations - adding a 3rd shot and autokeying
 * v14 - Animation Interpolation Actions - playing with animation smoothness & ensuring Frozen Cove level loads automatically
-* v15 - 
+* v15 - Using the fade track - fading to black
